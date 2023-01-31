@@ -155,7 +155,7 @@ Most importantly, libraries are a great platform for making progress. When we ge
 ```
 
 # Output:
-![et](et.png)
+![et](et.jpg)
 ![mg](mg.png)
 ![gh](gh.png)
 
