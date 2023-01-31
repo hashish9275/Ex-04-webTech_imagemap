@@ -22,7 +22,7 @@ To develop a website to display details about the places around my house.
 <font color="red"><b>Saveetha Engineering College</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>SYEDMOKTHIYAR S.M(22006227)</b></font>
+<font color="blue"><b>K R HASHISH VIDYA SAGAR(22009275)</b></font>
 </h3>
 <center>
 <img src="/static/image/home.png" usemap="#MyCity" height="420" width="1100">
